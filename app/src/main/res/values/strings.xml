@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Truora Whois</string>
+    <string name="history">Historial</string>
+
+    <string name="tosingup">Consulta el datalle de un dominio gratis\nIp, Pais, Propietario, Ssl, Etc…</string>
+    <string name="name">truora.com</string>
+
+    <string name="copy">Developed by Jhordy Abonia G. \nE-mail: jhordy.abonia@gmail.com</string>
+    <string name="setting">Setting</string>
+    <string name="url">http://127.0.0.1:8090/api/</string>
+    <string name="save">Gurdar</string>
+
+</resources>
